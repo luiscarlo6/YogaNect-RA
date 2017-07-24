@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 07a2e77f0add2f749a103bb91ab6ecf2
+timeCreated: 1490781143
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aliquam
+  fontNames:
+  - Aliquam
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

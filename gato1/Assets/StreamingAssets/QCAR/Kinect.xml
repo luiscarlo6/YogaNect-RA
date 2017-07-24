@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mano" size="1.000000 1.417894" />
+    <ImageTarget name="Verde" size="1.000000 1.413364" />
+    <ImageTarget name="salta" size="1.000000 1.415629" />
+    <ImageTarget name="robot" size="1.000000 1.412231" />
+    <ImageTarget name="pequeno" size="1.000000 1.412231" />
+    <ImageTarget name="pequena" size="1.000000 1.416572" />
+    <ImageTarget name="nino" size="1.000000 1.412231" />
+    <ImageTarget name="naranja" size="1.000000 1.409966" />
+    <ImageTarget name="nada" size="1.000000 1.412231" />
+    <ImageTarget name="la" size="1.000000 1.413364" />
+    <ImageTarget name="grande" size="1.000000 1.413364" />
+    <ImageTarget name="gato" size="1.000000 1.417894" />
+    <ImageTarget name="es" size="1.000000 1.408834" />
+    <ImageTarget name="el" size="1.000000 1.412301" />
+    <ImageTarget name="dinosaurio" size="1.000000 1.414496" />
+    <ImageTarget name="corre" size="1.000000 1.415629" />
+    <ImageTarget name="camina" size="1.000000 1.415629" />
+    <ImageTarget name="ballena" size="1.000000 1.415629" />
+    <ImageTarget name="bajo" size="1.000000 1.416761" />
+    <ImageTarget name="Baja" size="1.000000 1.336980" />
+    <ImageTarget name="ARMANDO" size="1.000000 1.440000" />
+    <ImageTarget name="arana" size="1.000000 1.409966" />
+    <ImageTarget name="alta" size="1.000000 1.438279" />
+  </Tracking>
+</QCARConfig>

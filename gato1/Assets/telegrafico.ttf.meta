@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc4a27c04a95d84438a659b911d5f8c2
+timeCreated: 1490781144
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Telegrafico
+  fontNames:
+  - Telegrafico
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
